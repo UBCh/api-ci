@@ -18,10 +18,9 @@
       "currency": {
         "type": "string",
         "enum": [
-          "RUB",
+          "RUR",
           "USD"
         ]
-      }
       },
       "id": {
         "type": "integer"
@@ -36,3 +35,4 @@
       }
     }
   }
+}
