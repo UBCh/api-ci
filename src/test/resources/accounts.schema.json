@@ -19,7 +19,7 @@
         "type": "string",
         "value": {
           "enum": [
-            "RUR",
+            "RUB",
             "USD"
           ]
         }
